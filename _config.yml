@@ -2,6 +2,7 @@ name: awesomeimage
 favicon: null
 layout_spectrum: 0.23764004022814333
 typography_spectrum: 0.3383814108092338
+title: 'Your Awesome Image '
 cta:
   domain: null
   bucket: null
