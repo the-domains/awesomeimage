@@ -1,5 +1,8 @@
+name: awesomeimage
+favicon: null
+layout_spectrum: 0.2376400402281433
+typography_spectrum: 0.3383814108092338
 title: 'Your Awesome Image '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3093086923472583
-  lightness: 0.8693586243316531
-  brandStrength: 0.6170848
   brandColors:
     - '#F0F0F0'
     - '#010101'
     - '#C6C5BE'
     - '#D0A289'
     - '#5B5A5B'
+  brandStrength: 0.4375
+  lightness: 0.8693586243316531
+  saturation: 0.3093086923472583
   rhythmicContrast: 0.7760358781088144
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: awesomeimage
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3383814108092338
-layout_spectrum: 0.2376400402281433
+purpose: []
