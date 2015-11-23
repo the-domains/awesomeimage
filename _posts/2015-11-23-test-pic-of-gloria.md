@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-23T22:17:07.516Z'
-dateModified: '2015-11-23T22:16:09.752Z'
+datePublished: '2015-11-23T22:19:41.570Z'
+dateModified: '2015-11-23T22:19:38.353Z'
 title: Test Pic of gloria
 author: []
+sourcePath: _posts/2015-11-23-test-pic-of-gloria.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-23-test-pic-of-gloria.md
-published: true
 url: test-pic-of-gloria/index.html
-_type: Article
+_type: Blurb
 
 ---
 test pic
