@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://expertphotography.com/black-friday-cyber-monday-sale-2015/'
 title: 'Black Friday & Cyber Monday Sale 2015 " Expert Photography'
-datePublished: '2015-11-23T21:54:57.161Z'
-dateModified: '2015-11-23T21:53:34.884Z'
+datePublished: '2015-11-23T22:01:15.269Z'
+dateModified: '2015-11-23T21:59:54.882Z'
 sourcePath: _posts/2015-11-23-black-friday-and-cyber-monday-sale-2015-expert-photography.md
 published: true
 inFeed: true
