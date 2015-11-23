@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-23T22:19:41.570Z'
-dateModified: '2015-11-23T22:19:38.353Z'
+description: desc
+datePublished: '2015-11-23T22:24:25.728Z'
+dateModified: '2015-11-23T22:24:22.578Z'
 title: Test Pic of gloria
 author: []
 sourcePath: _posts/2015-11-23-test-pic-of-gloria.md
